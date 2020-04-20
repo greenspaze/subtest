@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//greenspaze.github.io/subtest/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//blog.sabuymakkub.com/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://greenspaze.github.io/subtest/page-sitemap.xml</loc>
+		<loc>https://blog.sabuymakkub.com/page-sitemap.xml</loc>
 		<lastmod>2020-04-15T22:35:50+07:00</lastmod>
 	</sitemap>
 </sitemapindex>

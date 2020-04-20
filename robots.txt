@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://greenspaze.github.io/subtest/sitemap_index.xml
+Sitemap: https://blog.sabuymakkub.com/sitemap_index.xml
